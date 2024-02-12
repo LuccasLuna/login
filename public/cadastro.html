@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Document</title>
+  <link rel="stylesheet" href="assets/css/cadastro.css">
+</head>
+
+<body>
+  <div class="img">
+    <div class="texto">
+      <h1>Lorem ipsum dolor sit amet.</h1>
+      
+    </div>
+    <main>
+      <form action="/cadastro" method="post">
+        <div class="title">
+          <h1>Cadastro</h1>
+          <p>crie seu cadastro</p>
+        </div>
+        <div class="email-password">
+          <input type="email" name="email" id="email" placeholder="email" required autocomplete="email">
+          <input type="password" name="password" id="password" placeholder="senha" required autocomplete="current-password">
+        </div>
+
+        <div class="personal-data">
+          <input type="text" name="name" id="name" placeholder="nome" required autocomplete="name">
+          <input type="text" name="lastname" id="lastname" placeholder="sobrenome" required autocomplete="additional-name">
+          <input type="date" name="birthdate" id="birthdate" required autocomplete="bday-day">
+        </div>
+        <button>Enviar</button>
+      </form>
+    </main>
+ </div>
+</body>
+
+</html>
