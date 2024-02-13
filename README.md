@@ -7,7 +7,7 @@
 ### introdução sobre o projeto (objetivo, ideias, finalidade).
 
 <!-- linguagens, bibliotecas, banco de dados utilizados. -->
-## 🛠 Technologies and tools 
+## Technologies and tools 
 
 
 ## Funcionalidades.
