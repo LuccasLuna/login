@@ -13,6 +13,7 @@
 ## Technologies and tools 
 
 ### texto.....
+![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
 
 ## Funcionalidades.
 
