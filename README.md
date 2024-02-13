@@ -10,8 +10,8 @@ imagens......
 texto.....
 
 <!-- linguagens, bibliotecas, banco de dados utilizados. -->
-### Technologies and tools 
-#### Technologies and tools 
+## Technologies and tools 
+
 
 ### Linguagem utilizadas
 - HTML
