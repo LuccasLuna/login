@@ -37,3 +37,12 @@ texto.....
 ## Instalação.
 
 texto.....
+
+
+# Anotações
+ ## falta fazer
+ # - mostrar senha
+ # - pagina de perfil
+ # - pagina principal
+ 
+ 
