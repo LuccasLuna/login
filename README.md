@@ -40,9 +40,9 @@ texto.....
 
 
 # Anotações
- ## falta fazer
- ### - mostrar senha
- ### - pagina de perfil
- ### - pagina principal
+### falta fazer
+  - mostrar senha
+  - pagina de perfil
+  - pagina principal
  
  
