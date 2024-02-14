@@ -41,8 +41,8 @@ texto.....
 
 # Anotações
  ## falta fazer
- # - mostrar senha
- # - pagina de perfil
- # - pagina principal
+ ### - mostrar senha
+ ### - pagina de perfil
+ ### - pagina principal
  
  
